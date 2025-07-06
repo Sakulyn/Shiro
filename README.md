@@ -1,20 +1,8 @@
 # Shiro
 
-> **重要声明：** 由于个人精力有限，开源版本的 Shiro 后续将不再积极维护，仅会在发现重要安全漏洞时进行修复。我将把主要精力投入到赞助版 [白い](https://github.com/innei-dev/Shiroi) 的维护和功能迭代中。开源版本依然可以正常使用，感谢大家的理解和支持。
-
-一个极简主义的个人网站主题，如纸的纯净，似雪的清新。
+一个极简主义的个人网站主题，如纸的纯净，似雪的清新。作者为 [innei](https://github.com/innei/)
 
 专为 [Mix Space](https://github.com/mx-space) 生态系统设计的现代化个人站点前端。
-
-## :sparkles: 示例站点
-
-以下是一些使用 Shiro 主题的精美站点：
-
-- [静かな森](https://innei.in)
-- [可愛い松](https://blog.wibus.ren/)
-- [启动台の博客](https://www.launchpadx.top/)
-
-欢迎体验 Shiro 带来的极简之美！
 
 ## :rocket: 核心特性
 
@@ -42,31 +30,6 @@
 详细的部署教程请参考：https://mx-space.js.org/docs/themes/shiro/deploy
 
 感谢 @wibus-wee、@wuhang2003 等社区贡献者编写的详细文档。
-
-## :camera: 界面预览
-
-<img width="1471" alt="Live Demo" src="https://github.com/Innei/Shiro/assets/41265413/bf8af4ec-0f0c-441a-8c06-4b44e1649597">
-
-**轻量级管理面板：**
-
-![管理面板 1](https://github.com/Innei/Shiro/assets/41265413/4bb5b34a-3ce2-45da-bec7-4596ac87f849)
-![管理面板 2](https://github.com/Innei/Shiro/assets/41265413/592941d0-2ebe-4d64-bd77-3171829bd896)
-
-<details>
-<summary>
-点击查看更多完整页面截图
-</summary>
-
-![页面截图 1](https://github.com/Innei/Shiro/assets/41265413/1b85c9be-0cd3-46b5-a089-a9ab97fdfecb)
-![页面截图 2](https://github.com/Innei/Shiro/assets/41265413/d808d288-c022-42f2-8d74-ad057a588771)
-
-</details>
-
-## :zap: 性能测试
-
-在 M2 MacBook Air 环境下对重负载页面的性能测试结果：
-
-![性能测试结果](https://github.com/Innei/Shiro/assets/41265413/f76152af-4a52-46a2-9b83-20567800ba75)
 
 ## :whale: 快速开始
 
